@@ -13,3 +13,7 @@ node liri.js movie-this <movie title> = will display information about the desir
 node do-what-i-say will call from the random.txt file to search spotify for the song "I want it that way" and display the information to the screen.
 
 if you do not enter in a correct search requirement then you will receive a message atating "You did not enter an appropriate request."
+
+here is a link to a video of how the application should function.
+
+https://drive.google.com/file/d/1ZeMyVn_t0Mj621DC7D7djElmnXXLj0Ib/view?usp=sharing
